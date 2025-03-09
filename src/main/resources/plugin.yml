@@ -1,0 +1,6 @@
+name: BloodmoonCustomSpawn
+main: com.example.bloodmooncustomspawn.BloodmoonCustomSpawnPlugin
+version: 1.0.0
+depend: [bloodmoon-advanced]
+api-version: '1.21'
+author: So4246la
